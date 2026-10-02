@@ -44,21 +44,6 @@ Then open:
 
 http://localhost:8000
 
-📂 Project Structure
-
-Carbon-footprint/
-│
-├── index.html
-├── style.css
-├── script.js
-├── assets/
-│   ├── banner.jpg
-│   ├── banner.webp
-│   └── favicon.svg
-├── screenshots/
-│   ├── home.png
-│   └── calculator.png
-└── README.md
 
 🎯 Project Goal
 
